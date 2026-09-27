@@ -23,7 +23,6 @@ empresa y su información de contacto.
 - index.html: estructura principal de la página.
 - styles.css: estilos visuales de la página.
 - README.md: documentación del proyecto.
-- calculadora.html: calculadora de operaciones básicas.
 
 ## Página publicada
 https://hbon2129.github.io/Examen_Git_Bonilla/
