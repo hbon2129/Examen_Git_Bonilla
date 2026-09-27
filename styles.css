@@ -34,3 +34,11 @@ article {
     padding: 20px;
     margin: 15px 0;
 }
+
+
+footer {
+    background-color: #1E3A5F;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 20px;
+}
