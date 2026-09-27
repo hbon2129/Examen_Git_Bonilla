@@ -17,3 +17,20 @@ nav a {
 nav a:hover {
     text-decoration: underline;
 }
+
+
+body {
+    background-color: #F4F4F4;
+    color: #333333;
+}
+
+main h2,
+main h3 {
+    color: #1E3A5F;
+}
+
+article {
+    background-color: #FFFFFF;
+    padding: 20px;
+    margin: 15px 0;
+}
